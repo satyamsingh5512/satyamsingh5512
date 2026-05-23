@@ -7,7 +7,7 @@
 
 <br>
 
-I specialize in architecting high-throughput microservices, designing fault-tolerant distributed systems, and optimizing advanced computer vision models for complex object detection tasks.
+I specialize in architecting high-throughput microservices, designing fault-tolerant distributed systems, and optimizing advanced deep learning models for complex analytical tasks.
 
 ---
 
@@ -23,11 +23,13 @@ I specialize in architecting high-throughput microservices, designing fault-tole
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
     <td valign="top" width="50%">
-      <h4>🧠 Machine Learning & Computer Vision</h4>
+      <h4>🧠 Machine Learning & Deep Learning</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=analytics&logoColor=black" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers-2C8EBB?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLMs_&_GenAI-FF6F00?style=for-the-badge&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -68,31 +70,29 @@ I specialize in architecting high-throughput microservices, designing fault-tole
 
 ## 📊 Automated Performance Analytics & Rankings
 
-*(Note: Replace the `YOUR_GITHUB_USERNAME` placeholders below with your actual handle to render the dynamic data)*
-
 ### ⚡ GitHub Streak & Operational Stats
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsingh5512&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsingh5512&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsingh5512&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 🛠️ Current Research & Architectural Focus
 - **Distributed Microservices:** Benchmarking decoupled architectures using message brokers to solve race conditions in highly scalable stateful applications.
-- **Deep Learning Optimizations:** Customizing feature extraction layers in convolutional architectures to increase mean Average Precision (mAP) for small object detection on high-resolution sparse datasets.
+- **Deep Learning Optimizations:** Customizing feature extraction layers and utilizing advanced architectures like Transformers to improve model efficiency and precision on sparse datasets.
 - **System Hardening:** Enhancing infrastructure security layers to intercept payload-based attacks at the reverse proxy layer.
 
 ---
 
 ## 📬 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/satym5512/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:satyamsinghpx@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
