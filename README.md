@@ -49,7 +49,7 @@ I specialize in architecting high-throughput microservices, designing fault-tole
 ### ⚡ GitHub Streak & Operational Stats
 <p align="left">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsingh5512&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
