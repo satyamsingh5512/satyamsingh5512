@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Satyam 👋</h1>
+  <h1>Hi there, I'm Satym 👋</h1>
   
   <!-- Animated Bold Tagline -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=I+think,+I+can+code.;Deep+Learning+Researcher;Distributed+Systems+Architect" alt="Animated Tagline" />
@@ -50,20 +50,16 @@ I specialize in architecting high-throughput microservices, designing fault-tole
     <td valign="top" width="50%">
       <h4>⚡ Competitive Programming & Algorithmic Problem Solving</h4>
       <p>
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+        <a href="https://satym.in/cp"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+        <a href="https://satym.in/cp"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+        <a href="https://satym.in/cp"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+        <a href="https://satym.in/cp"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
       </p>
       <ul>
         <li><b>LeetCode:</b> 🎯 <b>Knight</b> | Actively refining complex algorithmic capabilities.</li>
         <li><b>Algorithms:</b> Advanced proficiency in Graph Theory, Dynamic Programming, and minimizing time/space complexities.</li>
+        <li><b>Profiles:</b> <a href="https://satym.in/cp">View my full competitive programming portfolio and rankings here.</a></li>
       </ul>
-      <p align="center">
-        <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-          <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&font=syne&ext=activity" alt="LeetCode Stats" width="100%" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
@@ -72,13 +68,7 @@ I specialize in architecting high-throughput microservices, designing fault-tole
 
 ## 📊 Automated Performance Analytics & Rankings
 
-*(Note: Replace the `YOUR_USERNAME` placeholders below with your actual handles)*
-
-### 🏆 Live Competitive Programming Stats
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight&disable_animations=false" alt="Codeforces Stats" width="48%" />
-  <img src="https://codechef-readme-stats.vercel.app/api/card?username=YOUR_CODECHEF_USERNAME&theme=tokyonight" alt="CodeChef Stats" width="48%" />
-</p>
+*(Note: Replace the `YOUR_GITHUB_USERNAME` placeholders below with your actual handle to render the dynamic data)*
 
 ### ⚡ GitHub Streak & Operational Stats
 <p align="center">
