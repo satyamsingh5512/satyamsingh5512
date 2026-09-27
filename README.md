@@ -57,7 +57,7 @@ I specialize in architecting high-throughput microservices, designing fault-tole
         <a href="https://satym.in/cp"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
       </p>
       <ul>
-        <li><b>LeetCode:</b> 🎯 <b>Knight</b> | Actively refining complex algorithmic capabilities.</li>
+        <li><b>LeetCode:</b> 🎯 | Actively refining complex algorithmic capabilities.</li>
         <li><b>Algorithms:</b> Advanced proficiency in Graph Theory, Dynamic Programming, and minimizing time/space complexities.</li>
         <li><b>Profiles:</b> <a href="https://satym.in/cp">View my full competitive programming portfolio and rankings here.</a></li>
       </ul>
